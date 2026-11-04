@@ -1,5 +1,5 @@
 Photo credits (destination cards without Fable Tour's own photos)
-UAE   img/uae.webp    Robert Bock, "Dubai skyline unsplash.jpg" https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.jpg  Licence: CC0 (no attribution required)
-Yemen img/yemen.webp  Ala Askool, "Shibam Hadramaut.jpg" https://commons.wikimedia.org/wiki/File:Shibam_Hadramaut.jpg  Licence: CC BY-SA 4.0 (credited in site footer)
-Turkey img/turkey.webp Feridun F. Alkaya, Cappadocia hot air ballooning https://commons.wikimedia.org/wiki/File:CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._Turkey._Hot_Air_Ballooning_Cappadocia.jpg  Licence: CC0 (no attribution required)
+UAE    img/uae.webp     Robert Bock, "Dubai skyline unsplash.jpg" https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.jpg  Licence: CC0 (no attribution required)
+Yemen  img/yemen.webp   Ala Askool, "Shibam Hadramaut.jpg" https://commons.wikimedia.org/wiki/File:Shibam_Hadramaut.jpg  Licence: CC BY-SA 4.0 (credited in site footer)
+Turkey img/turkey.webp  Hunanuk, "Fatihistanbul.jpg" (aerial view of Fatih with Blue Mosque and Hagia Sophia, Istanbul) https://commons.wikimedia.org/wiki/File:Fatihistanbul.jpg  Licence: CC0 (no attribution required)
 All other images: Fable Tour's own photos (from iraq.fabletour.com / srilanka.fabletour.com repos).
